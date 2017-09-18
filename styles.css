@@ -1,0 +1,27 @@
+body {
+    background-color: lightskyblue;
+}
+
+p {
+    padding: 25px 50px 25px 50px;
+}
+
+figcaption {
+    padding: 5px 50px 25px 50px;
+}
+
+img {
+    margin-left: 50px;
+}
+
+div {
+    font-weight: bold;
+}
+
+.important_reason {
+    color: red;
+}
+
+#superduper {
+    font-style: italic;
+}
